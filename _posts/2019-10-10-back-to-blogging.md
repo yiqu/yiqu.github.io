@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to Blogging
-excerpt_separator:  <!--more-->
+excerpt: "It has been a long time since I posted my last blog, now..."
 tags:
   - hyde
   - blogging
