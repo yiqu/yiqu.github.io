@@ -1,6 +1,6 @@
 ---
 layout: category
-title: My Projects
+title: Projects
 ---
 
 ### Tinkering Qu-ner
