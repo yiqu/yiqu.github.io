@@ -2,6 +2,9 @@
 layout: post
 title: Back to Blogging
 excerpt_separator:  <!--more-->
+tags:
+  - hyde
+  - blogging
 ---
 
 ### Return of Blogging
