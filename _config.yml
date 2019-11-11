@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Qu Blog
-tagline:          'Thoughts from Qu'
+tagline:          'Thoughts from Kevin'
 description:      'My personal blog.'
 url:              https://yiqu.github.io
 baseurl:          '/'
@@ -15,10 +15,10 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Kevin Qu'
-  url:            kevinqu.site
+  name: 'Kevin Qu'
+  url: 'https://github.com/yiqu'
 
-paginate:         5
+paginate: 5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
