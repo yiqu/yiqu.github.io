@@ -7,6 +7,12 @@ title: Readings
 ###### A collection of readings in tech, food, and travel.    
 <br/>
 
+> The true master is an eternal student
+
+&nbsp;&nbsp;&nbsp;&nbsp;\-anonymous
+<br/>
+<br/>
+
 | Category    | Title       | Date          | Author  | Reading Time  |
 | :---        |    :----   |          :--- | :---    | :---          |
 | Tech|[2019 Web Developer Road Map](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)|6/30/2019|Quincy Larson|10 min read|
