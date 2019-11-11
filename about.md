@@ -8,6 +8,11 @@ sidebar_link: true
 ###### Software developer by day, tinkerer by night.    
 <br/>
 
+> We judge ourselves by our ideals, but we judge others by their actions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;\-Dwight Morrow
+<br/>
+
 I am currently a UI developer working with Angular and RxJs. Previously, I was a DevOps engineer focusing on PaaS and CaaS.
 
 I have project management experiences overseeing the full software development life cycle. I have designed, and implemented solutions under both monolith and microservices architectural patterns. My proficiencies include software design, web service administration, code base administration, requirements analysis, automated testing, and database management.
