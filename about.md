@@ -12,6 +12,7 @@ sidebar_link: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;\-Dwight Morrow
 <br/>
+<br/>
 
 I am currently a UI developer working with Angular and RxJs. Previously, I was a DevOps engineer focusing on PaaS and CaaS.
 
