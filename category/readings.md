@@ -3,7 +3,7 @@ layout: category
 title: Readings
 ---
 
-### Recommended Readings
+### My Reading Qu-ner
 ###### My collection of readings in tech, food, and travel.
 
 | Category    | Title       | Date          | Author  | Reading Time  |
