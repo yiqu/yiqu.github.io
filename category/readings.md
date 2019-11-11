@@ -7,7 +7,7 @@ title: Readings
 ###### A collection of readings in tech, food, and travel.    
 <br/>
 
-> The true master is an eternal student
+> The true master is an eternal student.
 
 &nbsp;&nbsp;&nbsp;&nbsp;\-anonymous
 <br/>
