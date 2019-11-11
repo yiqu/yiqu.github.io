@@ -4,7 +4,8 @@ title: Readings
 ---
 
 ### My Reading Qu-ner
-###### My collection of readings in tech, food, and travel.
+###### My collection of readings in tech, food, and travel.    
+<br/>
 
 | Category    | Title       | Date          | Author  | Reading Time  |
 | :---        |    :----   |          :--- | :---    | :---          |
