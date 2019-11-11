@@ -40,7 +40,7 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: "Roboto", serif;
+    font-family: $font-family-right, serif;
     font-weight: normal;
     font-size: $large-font-size;
     margin-top: 0;
