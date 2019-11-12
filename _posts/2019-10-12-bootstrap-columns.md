@@ -124,9 +124,20 @@ A simple 3 column design will look like the following:
 ```
 
 The <code>col</code> class will mark the elements as a Column, and automatically set the width of these elements to fit the current
-resoultion.
+resoultion. You can also manually set the sizes of the column by giving it a integer size. **The total size sum should add up to 12**. 
 
-But the most powerful aspect of Bootstrap Grid System is the Column Breakpoints System. The following chart is a summary of the breakpoints:
+If you want the first column of a 3 column design to be smaller than the other 2, it can looks like the following:
+
+```html
+<div class="row">
+  <div class="col-2"> smaller </div>
+  <div class="col-5"> bigger column </div>
+  <div class="col-5"> bigger column </div>
+</div>
+```
+
+The sizing are great and all, but what if you want to design something that will looks nice for both small and large screens? For example, what if I want the the last two columns to stack up instead of side-by-side *only* when I am on a smaller screen?
+This is where we will be using the Column Breakpoints System. The following chart is a summary of the breakpoints:
 
 ![alt text][chart]
 
@@ -137,6 +148,15 @@ A breakpoint is a Bootstrap variable that stands for a screen resolution. When y
 If you were designing a page made for large screens. You would probably use the <code>col-ld-*</code> class. By using the lg class,
 The columns will only start to stack when the screen resolution is less or equal than 992px.
 
+Like the following behavior:
 
+![alt text][bp-1]
+
+[bp-1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/bp-1.png "chart"
+
+This behavior is what makes the breakpoints so powerful. Depending on the resoultion you are designing for, you can set different
+breakpoints for your columns.
+
+There are a lot more to the breakpoints and columns on the official [Bootstrap Documentation] (https://getbootstrap.com/docs/4.0/layout/grid/). Make sure you head over there and check out rest of the features!
 
 
