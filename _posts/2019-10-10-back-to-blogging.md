@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back to Blogging
+readTime: 1
 tags:
   - hyde
   - blogging
