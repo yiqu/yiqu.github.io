@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More Than Just Log
+readTime: 8
 tags:
   - commands
   - programming
