@@ -3,7 +3,7 @@ layout: category
 title: Projects
 ---
 
-### Tinkering Qu-ner
+### Tinkering Qu-r-ner
 ###### A collection of my personal projects. Feel free to check them out and leave a feedback.
 <br/>
 
