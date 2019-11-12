@@ -3,7 +3,7 @@ layout: category
 title: Readings
 ---
 
-### My Reading Qu-r-ner
+### Reading Qu-r-ner
 ###### A collection of readings in tech, food, and travel.    
 <br/>
 
