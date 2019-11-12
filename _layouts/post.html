@@ -6,7 +6,7 @@ layout: default
   <h2 class="post-title">{{ page.title }}</h2>
 </header>
 <div class="content">
-  {% include post-meta.html post=page %}
+  {% include post-meta.html post=page %} {% include read-time.html readTime=page.readTime %}
 
   <div class="post-body">
     {{ content }}
