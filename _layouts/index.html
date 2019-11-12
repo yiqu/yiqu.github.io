@@ -35,6 +35,9 @@ layout: default
         <a href="{{ post.url | relative_url }}">More &hellip;</a>
       {% endif %}
     {% endif %}
+    
+    {% include read-time.html %}
+    
   </article>
   {% endfor %}
 
