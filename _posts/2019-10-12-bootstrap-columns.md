@@ -161,6 +161,6 @@ Like the following behavior:
 **This behavior is what makes the breakpoints so powerful. Depending on the resoultion you are designing for, you can set different
 breakpoints for your columns**.
 
-There are a lot more to the breakpoints and columns on the official [Bootstrap Documentation] (https://getbootstrap.com/docs/4.0/layout/grid/). Make sure you head over there and check out rest of the features!
+There are a lot more to the breakpoints and columns on the official [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/layout/grid/). Make sure you head over there and check out rest of the features!
 
 
