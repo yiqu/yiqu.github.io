@@ -95,13 +95,48 @@ these paddings, they can removed with the <code>.no-gutters</code> class. This r
 
 The following image shows the no gutters effect:
 
-![alt text][container]
+![alt text][NoGutter]
 
 [NoGutter]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/gutters.png "GutterNo"
 
 > Aside: Need an edge-to-edge design? Drop the parent .container or .container-fluid.
 
+Main take away here is that rows are only used for containing columns. If you place other elements inside the row along with columns you will not get the expected result.
+
+Rows have to be placed in containers. If you don’t do this, you will get a horizontal scroll on your page. This happens because rows have negative left and right margins of 15. The container has 15px paddings so it counteracts the margins.
+
+Columns have to be children of the row. Otherwise they will not align. The rows and columns are created to work together in this strict hierarchy.
+
 <br/>
 
 ### Column
+
+Bootstrap is desgined with responsiveness in mind. The columns are designed so that it will work nicely in both small and large screens.
+
+A simple 3 column design will look like the following:
+
+```html
+<div class="row">
+  <div class="col">col</div>
+  <div class="col">col</div>
+  <div class="col">col</div>
+</div>
+```
+
+The <code>col</code> class will mark the elements as a Column, and automatically set the width of these elements to fit the current
+resoultion.
+
+But the most powerful aspect of Bootstrap Grid System is the Column Breakpoints System. The following chart is a summary of the breakpoints:
+
+![alt text][chart]
+
+[chart]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/col-chart.png "chart"
+
+A breakpoint is a Bootstrap variable that stands for a screen resolution. When you are specifying a breakpoint for a class, you are telling the class to be active only for resolutions that are at least as big as the number that the breakpoint holds.
+
+If you were designing a page made for large screens. You would probably use the <code>col-ld-*</code> class. By using the lg class,
+The columns will only start to stack when the screen resolution is less or equal than 992px.
+
+
+
 
