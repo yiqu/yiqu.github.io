@@ -46,5 +46,5 @@ So your basic layout should have the following strucutre:
 > Aside: you can have multiple <code>.container</code> elements on a single page, but it is not recommended that you
 nest them.
 
-Though the <code>.container</code> class is the recommended class to use for responsive desgin, you can also use <code>.container-fluid</code> class to achieve <code>width: 100%</code> across all viewport and device sizes.
+Beside the <code>.container</code> class, which is the recommended class to use for responsive desgin, you can also use <code>.container-fluid</code> class to achieve <code>width: 100%</code> across all viewport and device sizes.
 
