@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More than Just Log
-excerpt: "It has been a long time since I posted my last blog, now..."
+excerpt: "As as a front-end developer, one of the most used debugging tool we use is the console object. The console object   provides access to..."
 tags:
   - commands
   - programming
