@@ -10,6 +10,7 @@ tags:
 ### Return of Blogging
 It has been a long time since I posted my last blog, now that I have a bit more free time, I will try to
 post more covering a varity of topics.
+<!--more-->
 
 ### New Theme
 If you are like me, someone who puts heavy emphasis on how something looks, then I hope you
