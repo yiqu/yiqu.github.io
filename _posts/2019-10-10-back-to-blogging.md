@@ -6,7 +6,6 @@ tags:
   - blogging
 ---
 
-### Return of Blogging
 It has been a long time since I posted my last blog, now that I have a bit more free time, I will try to
 post more covering a varity of topics.
 <!--more-->
