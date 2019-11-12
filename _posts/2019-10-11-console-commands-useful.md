@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Than Just Log
-excerpt: <!--more-->
+excerpt: "<!--more-->"
 tags:
   - commands
   - programming
