@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Back to Blogging
-excerpt: "It has been a long time since I posted my last blog, now..."
 tags:
   - hyde
   - blogging
