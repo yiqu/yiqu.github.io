@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Than Just Log
-excerpt: "As as a front-end developer, one of the most used debugging tool we use is the console object. The console object   provides access to..."
+excerpt: 25
 tags:
   - commands
   - programming
