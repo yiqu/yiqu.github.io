@@ -17,7 +17,7 @@ One major change is the Angular CLI. In version 6+, you will noticed that Angula
 
 #### Building Configurations
 
-In the old CLI, you would build different version of your application by supplying the <code>environment</code> flag, like: 
+In the old CLI, you would build different versions of your application by supplying the <code>environment</code> flag, like: 
 ```bash
 ng build --environment=development
 ``` 
@@ -29,7 +29,7 @@ ng build --configuration=development
 
 This is because in Angular 6, each target now has a **configuration** where you can configur how your application will be built. In the Production configuration, which comes with Angular with you create a new project by <code>ng new..</code>, you can see it has the following configurations:
 
-```json
+```javascript
 "configurations": {
             "production": {
               "fileReplacements": [
@@ -68,7 +68,7 @@ This config will be used if you built your application with the <code>--prod</co
 What if you have a custom configuration called **Staging**? You would have to add a new config in your <code>configuration</code>
 property. Like:
 
-```json
+```javascript
 "configurations": {
             "production": {
             ...
@@ -91,7 +91,7 @@ Let's go one step further, what if you want to build Staging with all the option
 <code>aot</code>, and tree shaking? Well you could either add those options into your **Staging** configuration, or you could create
 a new configuration called <code>Staging-Prod</code> like the following:
 
-```json
+```javascript
 "configurations": {
             "production": {
             ...
@@ -135,3 +135,31 @@ environment properties with the Prodution options.
 <br/>
 
 #### Serve Configurations
+
+When you run <code>ng serve</code>, CLI is running the default <code>build</code> configurations. If you want to <code>ng serve</code>
+a custom configuration like the **Staging** configuration we have created earlier, you will have to add a section called <code>staging</code> like:
+
+```javascript
+"serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "myApp:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "myApp:build:production"
+            }
+            "staging": {
+              "browserTarget": "myApp:build:staging"
+            }
+          }
+        },
+```
+
+Notice that in the staging property, I decalred the browserTarget to be <code>"myApp:build:staging"</code>, which means it will go try 
+to find in the <code>build</code>, for a property named <code>staging</code>. Earlier, we have created just that. We added a new build called <code>staging</code>, and now Angular will run <code>serve</code> with those configurations.
+
+Now when you run <code> ng serve --configuration=staging</code>, you will get all the staging environment feel with <code>serve</code>.
+
+That's about all the basics of Angular configurations. Make sure to check out the detailed docs at [here](https://angular.io/cli/build).
+        
