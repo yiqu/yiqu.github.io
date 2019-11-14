@@ -8,10 +8,10 @@ tags:
   - configurations
 ---
 
-If you have not upgraded your Angular application to version 6+, you should really take the time and make the switch. There are some major changes
-in the version 6 release. You can read it [here](https://github.com/angular/angular/blob/master/CHANGELOG.md#600-2018-05-03).
-One major change is the Angular CLI. In version 6+, you will noticed that Angular has replaced the file <code>angular-cli.json</code> with
-<code>angular.json</code>. In version 6+, each CLI workspace has projects, each project has targets, and each target can have configurations.
+If you have not upgraded your Angular application to version 6+, you should really take the time and make the switch. There are some major changes in the version 6 release. You can read it [here](https://github.com/angular/angular/blob/master/CHANGELOG.md#600-2018-05-03).
+
+One major change is the Angular CLI. In version 6+, you will noticed that Angular has replaced the file <code>angular-cli.json</code> with <code>angular.json</code>. In version 6+, each CLI workspace has projects, each project has targets, and each target can have configurations.
+<!--more-->
 
 <br/>
 
