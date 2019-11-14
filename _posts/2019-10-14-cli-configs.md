@@ -14,6 +14,7 @@ One major change is the Angular CLI. In version 6+, you will noticed that Angula
 <code>angular.json</code>. In version 6+, each CLI workspace has projects, each project has targets, and each target can have configurations.
 
 <br/>
+
 #### Building Configurations
 
 In the old CLI, you would build different version of your application by supplying the <code>environment</code> flag, like: 
@@ -132,4 +133,5 @@ Now you can build **Staging-Prod** by <code>ng build --configuration=staging-pro
 environment properties with the Prodution options.
 
 <br/>
+
 #### Serve Configurations
