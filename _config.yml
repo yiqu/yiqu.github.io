@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Qu Blog
 tagline:          'Thoughts from Kevin'
-description:      'My personal space.'
+description:      'Technology. Games. Tea.'
 url:              https://yiqu.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
