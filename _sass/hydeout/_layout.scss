@@ -116,6 +116,7 @@ body {
   // Show secondary nav content + lead
   header ~ *, p.lead {
     display: block;
+    font-size: 1rem;
   }
 
   header {
