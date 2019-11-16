@@ -14,7 +14,6 @@ they were finally in agreement on purchasing me a Gameboy Color. I could hardly 
 the eletronic section, picked up a neon green color Game Boy Color, and the most popular game at the time, Pokemon Gold (Silver).
 
 And that was 19 years ago...
-
 <!--more-->
 
 Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the Nintendo Switch. Sword and Shield takes place in Galar region, it is a brand new region Pokemon has released just for this game. Galar is modeled after the U.K. You will see a lot of resemblance of the green country side of England, and mountains of Scotland in the game. The old rustic
