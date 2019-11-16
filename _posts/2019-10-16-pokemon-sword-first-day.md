@@ -153,21 +153,22 @@ Giga ball!
 
 ![alt text][gigaball2]
 
-[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg ""
+[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg "a"
 
 Giga ball thrown.
 
 
-![alt text][giga-catch]
+![alt text][gigacatch]
 
-[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg ""
+[gigacatch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg "a"
 
 Catching it!
 
 
-![alt text][giga-caught]
+![alt text][gigacaught]
 
-[giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg ""
+
+[gigacaught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg "a"
 
 Caught it!
 
