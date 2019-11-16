@@ -12,9 +12,9 @@ tags:
 The first Pokemon game I ever played was Pokemon Gold. I still remember the day my parents took me to the store and told me
 they were finally in agreement on purchasing me a Gameboy Color. I could hardly contain my excitment. I went straight to 
 the eletronic section, picked up a neon green color Game Boy Color, and the most popular game at the time, Pokemon Gold (Silver).
+<!--more-->
 
 And that was 19 years ago...
-<!--more-->
 
 Today, I purchased my second ever Pokemon game, Pokemon Sword (Shield) for the Nintendo Switch. Sword and Shield takes place in Galar region, it is a brand new region Pokemon has released just for this game. Galar is modeled after the U.K. You will see a lot of resemblance of the green country side of England, and mountains of Scotland in the game. The old rustic
 towns with brick fronts are a lot like the old towns of England. There is even a bridge in game I saw that looks very 
@@ -157,11 +157,13 @@ Giga ball!
 
 Giga ball thrown.
 
+
 ![alt text][giga-catch]
 
-[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg "Container Row Column"
+[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg ""
 
 Catching it!
+
 
 ![alt text][giga-caught]
 
