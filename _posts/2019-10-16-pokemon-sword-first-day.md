@@ -14,6 +14,7 @@ they were finally in agreement on purchasing me a Gameboy Color. I could hardly 
 the eletronic section, picked up a neon green color Game Boy Color, and the most popular game at the time, Pokemon Gold (Silver).
 
 And that was 19 years ago...
+
 <!--more-->
 
 Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the Nintendo Switch. Sword and Shield takes place in Galar region, it is a brand new region Pokemon has released just for this game. Galar is modeled after the U.K. You will see a lot of resemblance of the green country side of England, and mountains of Scotland in the game. The old rustic
@@ -168,6 +169,29 @@ Catching it!
 [giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg ""
 
 Caught it!
+
+<br/>
+
+#### Trading
+
+I have not done any trading yet, there is a online trading feature, as well as local. You can not make trades in this
+game until you have met the Professor on Route 2. This means you have to play the game for at leadt 30 mins-ish to
+be able to trade.
+
+There is a loophole here people can take advantage of. Players can obtain all three starters by trading. You have to
+create a alt Switch account, play the game till you have trading enabled (meeting the Professor), then trade your
+starter to your main account. I have not done this, but it is possible.
+
+<br/>
+
+#### Battling
+
+I have not tried online battling. I have heard Nintendo wanted to make this game more competitive, so I expect
+online tournments will be a hot spot for players who wants to do battle and gain prestige.
+
+<br/>
+
+#### Overall
 
 Overall, I am very satisfied with Sword and Shield from just one day of playing. It is a grindy at times, but it is also
 a lot of fun. The newly added Pokemons of Galar keeps everything interesting. Filling out your Pokedex is always a 
