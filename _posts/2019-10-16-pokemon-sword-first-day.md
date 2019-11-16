@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokemon Sword Day One Impressions
+title: Pokemon Sword and Shield Day One Impressions
 readTime: 3
 tags:
   - pokemon
@@ -125,32 +125,55 @@ The fighting aspect is pretty much the same. Obviously the graphics has improved
 
 Fighting!
 
-
-![alt text][gigaball1]
-
-[gigaball1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball.jpg "Cont"
-
-![alt text][gigaball2]
-
-[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg ""
-
-![alt text][giga-catch]
-
-[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg "Container Row Column"
-
-![alt text][giga-caught]
-
-[giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg ""
+Pokemons leveling up showing the attributes.
 
 ![alt text][levelup]
 
 [levelup]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/levelup.jpg "Container"
 
-
+Level up.
 
 ![alt text][pokemap]
 
 [pokemap]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokemap.jpg "Container Row Column"
+
+Pokemap showing your location and objectives.
+
+
+One new feature Sword and Shield added is Gigantamax. Pokemons can be Gigantamax'ed to be more powerful. You can also 
+encounter these Gigantamax'd Pokemons in Raids. Once they are defeated, you have a chance to catch them. One caught, they
+return to their normal form. I have encountered some Gigantamax raids already, they have been easy to defeat so far. I am
+sure there will be more default ones as the game progresses.
+
+![alt text][gigaball1]
+
+[gigaball1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball.jpg "Cont"
+
+Giga ball!
+
+![alt text][gigaball2]
+
+[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg ""
+
+Giga ball thrown.
+
+![alt text][giga-catch]
+
+[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg "Container Row Column"
+
+Catching it!
+
+![alt text][giga-caught]
+
+[giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg ""
+
+Caught it!
+
+Overall, I am very satisfied with Sword and Shield from just one day of playing. It is a grindy at times, but it is also
+a lot of fun. The newly added Pokemons of Galar keeps everything interesting. Filling out your Pokedex is always a 
+objective that will not get stale. I look forward to battling Gym Leaders and solving puzzles in the region of Galar. Look
+out for part 2 of my PokeBlog series.
+
 
 
 
