@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Qu Blog
 tagline:          'Thoughts from Kevin'
 description:      'Technology. Games. Tea.'
-version:          '1.0.0'
+version:          '1.1.1'
 url:              https://yiqu.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
