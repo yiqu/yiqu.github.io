@@ -16,13 +16,34 @@ the eletronic section, picked up a neon green color Game Boy Color, and the most
 And that was 19 years ago...
 <!--more-->
 
-Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the Nintendo Switch.
+Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the Nintendo Switch. Sword and Shield takes place in Galar region, it is a brand new region Pokemon has released just for this game. Galar is modeled after the U.K. You will see a lot of resemblance of the green country side of England, and mountains of Scotland in the game. The old rustic
+towns with brick fronts are a lot like the old towns of England. There is even a bridge in game I saw that looks very 
+simlar to the London Bridge.
+
+As you start your journey in Galar, the first thing you do is pick a stater Pokemon. This is the same as all other
+Pokemon games. The three starters are:
+
+![alt text][fire1]
+
+[fire1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fire1.png "n"
+
+![alt text][water1]
+
+[water1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/water1.png "Container Row Column"
+
+![alt text][grass1]
+
+[grass1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/grass1.png "Container Row Column"
 
 
+They all have their own unique attributes, so choose wisely.
 
+The game starts with you, the player, watching a Pokemon Trainer named Leon battle on T.V. Leon has never lost, 
+and you are very good friends with his little brother, Hop. You and Hop goes to greet Leon, and Leon brings the three
+starter Pokemons and tells you guys to pick one. 
 
-
-
+I can already predict that at some point of the game, you will battle Leon for the spot of Pokemon Champion. Hop is a 
+trainer you will be battling throughout the game. After 30 mins of playing, I had already battle him twice.
 
 
 
@@ -36,17 +57,6 @@ Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the N
 
 [fight1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fight1.jpg "Container Row Column"
 
-![alt text][fire1]
-
-[fire1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fire1.png "n"
-
-![alt text][water1]
-
-[water1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/water1.png "Container Row Column"
-
-![alt text][grass1]
-
-[grass1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/grass1.png "Container Row Column"
 
 ![alt text][gigaball1]
 
