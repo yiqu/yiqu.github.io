@@ -3,4 +3,7 @@
   <a href="{{ "/LICENSE.md" | relative_url }}">
     <!-- MIT License. -->
   </a>
+  {% if site.version %}
+    <span class="site-version" title="Site version">V {{ site.version }}</span>
+  {% endif %}
 </p>
