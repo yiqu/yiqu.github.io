@@ -20,6 +20,10 @@ Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the N
 towns with brick fronts are a lot like the old towns of England. There is even a bridge in game I saw that looks very 
 simlar to the London Bridge.
 
+<br/>
+
+#### Starters
+
 As you start your journey in Galar, the first thing you do is pick a stater Pokemon. This is the same as all other
 Pokemon games. The three starters are:
 
@@ -27,13 +31,21 @@ Pokemon games. The three starters are:
 
 [fire1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fire1.png "n"
 
+Fire starter
+
 ![alt text][water1]
 
 [water1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/water1.png "Container Row Column"
 
+
+Water starter
+
+
 ![alt text][grass1]
 
 [grass1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/grass1.png "Container Row Column"
+
+Grass starter
 
 
 They all have their own unique attributes, so choose wisely.
@@ -45,8 +57,46 @@ starter Pokemons and tells you guys to pick one.
 I can already predict that at some point of the game, you will battle Leon for the spot of Pokemon Champion. Hop is a 
 trainer you will be battling throughout the game. After 30 mins of playing, I had already battle him twice.
 
+<br/>
 
+#### Graphics
 
+Sword and Shield probably has the best graphics so far in all of the Pokemon games series. The camera view is very fluid.
+You can change the camera angle with the right joystick, while moving with the left. Camera can be zoomed out as well. But 
+there is only one level of zoom out allowed.
+
+The towns and wild areas are just amazing in terms of looks and feel. The game has very vibrant colors, which brings a 
+lot nostlagia of the Pokemon T.V. show.
+
+![alt text][pokecenter]
+
+[pokecenter]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokecenter.jpg "center"
+
+Pokemon Center!
+
+![alt text][town1]
+
+[town1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/town1.jpg "Container Row Column"
+
+One of the towns in the game.
+
+![alt text][wild1]
+
+[wild1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild-1.jpg "Container Row Column"
+
+In the wild 
+
+![alt text][wild2]
+
+[wild2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild2.jpg "Container"
+
+In the wild again
+
+![alt text][wild3]
+
+[wild3]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild3.jpg "Container"
+
+The rain really makes it immersive
 
 
 ![alt text][box]
@@ -78,29 +128,13 @@ trainer you will be battling throughout the game. After 30 mins of playing, I ha
 
 [levelup]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/levelup.jpg "Container"
 
-![alt text][pokecenter]
 
-[pokecenter]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokecenter.jpg "Containe"
 
 ![alt text][pokemap]
 
 [pokemap]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokemap.jpg "Container Row Column"
 
-![alt text][town1]
 
-[town1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/town1.jpg "Container Row Column"
-
-![alt text][wild1]
-
-[wild1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild-1.jpg "Container Row Column"
-
-![alt text][wild2]
-
-[wild2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild2.jpg "Container"
-
-![alt text][wild3]
-
-[wild3]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild3.jpg "Container"
 
 
 
