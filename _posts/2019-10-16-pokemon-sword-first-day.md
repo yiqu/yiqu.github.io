@@ -84,28 +84,46 @@ One of the towns in the game.
 
 [wild1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild-1.jpg "Container Row Column"
 
-In the wild 
+In the wild, the weather is a nice touch.
 
 ![alt text][wild2]
 
 [wild2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild2.jpg "Container"
 
-In the wild again
+In the wild, a Lapras!
 
 ![alt text][wild3]
 
 [wild3]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild3.jpg "Container"
 
-The rain really makes it immersive
+In the wild, a Onyx!
 
+
+#### Gameplay
+
+Sword and Shield is very similar to the other games in term of gameplay. You will have to grind the levels just like
+before. There are items, berries, TMs, speical items, items to hold, etc. One new addition I really like in this game
+is the "Shared Experience" feature. Everytime you gain exp. your entire Pokemon squad gains experience. The Pokemon
+that was used gains the full experience, and the rest gains a percentage of the experience. This means
+you don't have to use a Pokemon for him/her to gain experience. This is nice for making sure everybody is close in 
+levels, and does not fall behind.
+
+The Pokemon Center is the same. There are "Boxes" to put your extra Pokemons, you can access these in the Pokecenter.
 
 ![alt text][box]
 
 [box]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/box.jpg "Container Row Column"
 
+A box storing Pokemons. They can be swapped out to your main squad.
+
+
+The fighting aspect is pretty much the same. Obviously the graphics has improved, and it is more realstic.
+
 ![alt text][fight1]
 
 [fight1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fight1.jpg "Container Row Column"
+
+Fighting!
 
 
 ![alt text][gigaball1]
