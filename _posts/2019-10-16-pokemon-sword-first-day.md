@@ -28,23 +28,69 @@ Today, I purchased my second ever Pokemon game, Pokemon Sword (Sheild) for the N
 
 
 
+![alt text][box]
 
 [box]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/box.jpg "Container Row Column"
+
+![alt text][fight1]
+
 [fight1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fight1.jpg "Container Row Column"
-[fire1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fire1.png"Container Row Column"
-[water1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/water1.png"Container Row Column"
-[grass1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/grass1.png"Container Row Column"
-[gigaball1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball.jpg"Container Row Column"
-[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg"Container Row Column"
-[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg"Container Row Column"
-[giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg""
-[levelup]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/levelup.jpg"Container"
-[pokecenter]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokecenter.jpg"Containe"
-[pokemap]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokemap.jpg"Container Row Column"
-[town1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/town1.jpg"Container Row Column"
-[wild1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild-1.jpg"Container Row Column"
-[wild2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild2.jpg"Container"
-[wild3]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild3.jpg"Container"
+
+![alt text][fire1]
+
+[fire1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/fire1.png "n"
+
+![alt text][water1]
+
+[water1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/water1.png "Container Row Column"
+
+![alt text][grass1]
+
+[grass1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/grass1.png "Container Row Column"
+
+![alt text][gigaball1]
+
+[gigaball1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball.jpg "Cont"
+
+![alt text][gigaball2]
+
+[gigaball2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-ball2.jpg ""
+
+![alt text][giga-catch]
+
+[giga-catch]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-catch.jpg "Container Row Column"
+
+![alt text][giga-caught]
+
+[giga-caught]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/giga-caught.jpg ""
+
+![alt text][levelup]
+
+[levelup]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/levelup.jpg "Container"
+
+![alt text][pokecenter]
+
+[pokecenter]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokecenter.jpg "Containe"
+
+![alt text][pokemap]
+
+[pokemap]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/pokemap.jpg "Container Row Column"
+
+![alt text][town1]
+
+[town1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/town1.jpg "Container Row Column"
+
+![alt text][wild1]
+
+[wild1]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild-1.jpg "Container Row Column"
+
+![alt text][wild2]
+
+[wild2]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild2.jpg "Container"
+
+![alt text][wild3]
+
+[wild3]: https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/images/wild3.jpg "Container"
 
 
 
