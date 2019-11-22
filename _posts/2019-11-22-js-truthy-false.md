@@ -14,10 +14,10 @@ There are truthy and falsy values in Javascript. Using them could shorten your c
 
 * strings with the length of 0
 * the number 0
-* false
-* undefined
-* null
-* NaN
+* <code>false</code>
+* <code>undefined</code>
+* <code>null</code>
+* <code>NaN</code>
 
 
 #### Truthy
@@ -30,12 +30,10 @@ There are truthy and falsy values in Javascript. Using them could shorten your c
 
 #### Bonus
 
-The !! operator is a useful operator to convert values in javascript to Boolean values. If the expression is a truthy value, it return true; otherwise it returns false.
+The <code>!!</code> operator is a useful operator to convert values in javascript to Boolean values. If the expression is a truthy value, it return true; otherwise it returns false.
 
 ```javascript
 !!1  // returns true
 !!undefined //returns false
-!![] returns true
-
-
+!![] returns //returns true
 ```
