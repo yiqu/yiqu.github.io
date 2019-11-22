@@ -33,7 +33,7 @@ There are truthy and falsy values in Javascript. Using them could shorten your c
 The <code>!!</code> operator is a useful operator to convert values in javascript to Boolean values. If the expression is a truthy value, it return true; otherwise it returns false.
 
 ```javascript
-!!1  // returns true
+!!1         // returns true
 !!undefined //returns false
-!![] returns //returns true
+!![]        //returns true
 ```
