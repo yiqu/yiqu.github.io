@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript Truthy and Falsy's
+title: JavaScript Truthy and Falsys
 readTime: 2
 tags:
   - javascript
@@ -8,7 +8,7 @@ tags:
 ---
 
 There are truthy and falsy values in Javascript. Using them could shorten your conditional checks and more.
-
+<!--more-->
 
 #### Falsy
 
