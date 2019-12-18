@@ -38,5 +38,7 @@ If <code>create-react-app</code> has not been installed in the path, <code>npx</
 
 #### Conclusion
 
-So in summary, when should I use npx? npx should be used when you want to execute a package or module (that was not previously installed) once and not care to use it again in the future.
+So in summary, when should I use <code>npx</code>? <code>npx</code> should be used when you want to execute a package or module (that was not previously installed) once and not care to use it again in the future.
+
+*Bonus: installing npm packages globally most times requires sudo (administrative user right). With <code>npx</code> you can simply run a node executable anywhere without sudo.*
 
