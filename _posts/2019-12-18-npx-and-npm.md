@@ -12,17 +12,18 @@ If you are learning how to use a new Javascript framework or library, you might 
 <!--more-->
 Before proceeding, the gist is: 
 
-**NPM - Manages packages but doesn't make life easy executing any.**
+NPM - Manages packages but doesn't make life easy executing any.
 
-**NPX - A tool for executing Node packages.**
+NPX - A tool for executing Node packages.
 
-### NPM
+
+#### NPM
 
 We all know what <code>npm</code> does, it is a package manager that manages and installs the application's modules based on the application's package.json file. When you run <code>npm install</code>, it scan your package.json file, and installs all neccessary modules based on the versions it specified. <code>npm</code> installs these modules to a folder called <node>./node_modules</code>. Another common usage is to use <code>npm</code> to install a new module by simply typing <code>npm install cool-thing</code> and <code>npm</code> will install it, add the <code>cool-thing</code> to your application's <code>package.json</code> file.
 
 So what does <code>npx</code> do that is different than <code>npm</code>?
 
-### NPX
+#### NPX
 
 If npm manages your modules, npx executes them instead. <code>npx</code> checks if the module exists in the path, if it does, it executes it. If it does not, it will installs the module, and executes it. 
 
