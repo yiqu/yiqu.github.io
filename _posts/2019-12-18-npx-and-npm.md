@@ -9,14 +9,12 @@ tags:
 ---
 
 If you are learning how to use a new Javascript framework or library, you might see the following command <code>npx name-of-package ...</code> in the Getting Started section. You might say to yourself, wow they made a typo! Actually they did not. <code>npx</code> and <code>npm</code> are very different things, and it was meant to be used that way.
-
+<!--more-->
 Before proceeding, the gist is: 
 
 **NPM - Manages packages but doesn't make life easy executing any.**
 
 **NPX - A tool for executing Node packages.**
-
-<!--more-->
 
 ### NPM
 
