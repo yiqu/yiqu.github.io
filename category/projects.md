@@ -34,6 +34,12 @@ title: Projects
   <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/binit/)</strong></sub>
   
 * #### Social
+  * [Boba Tea Store](https://github.com/yiqu/boba). <br>⚽ A web app to track your boba orders.
+  <br><sub><strong>Progress: 7/10</strong> | <strong>Live demo: [Go](https://boba-store.web.app/home)</strong></sub>
+
+  * [FIFA Season Tracker](https://github.com/yiqu/SquadFIFA). <br>⚽ A web app to track your FIFA season progress.
+  <br><sub><strong>Progress: 5/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/SquadFIFA/)</strong></sub>
+
   * [Github Search](https://github.com/yiqu/searchit). <br>🔎 Search users, projects or organizations on Github.
   <br><sub><strong>Progress: 2/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/searchit/)</strong></sub>
   <br>
@@ -41,6 +47,3 @@ title: Projects
   * [Nearby Happy Hours](https://github.com/yiqu/gohappy). <br>🍻 See a list of happy hour events.
   <br><sub><strong>Progress: 3/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/gohappy/)</strong></sub>
   <br>
-  
-  * [FIFA Season Tracker](https://github.com/yiqu/SquadFIFA). <br>⚽ A web app to track your FIFA season progress.
-  <br><sub><strong>Progress: 5/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/SquadFIFA/)</strong></sub>
