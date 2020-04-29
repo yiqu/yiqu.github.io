@@ -34,7 +34,7 @@ title: Projects
   <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/binit/)</strong></sub>
   
 * #### Social
-  * [Boba Tea Store](https://github.com/yiqu/boba). <br>⚽ A web app to track your boba orders.
+  * [Boba Tea Store](https://github.com/yiqu/boba). <br>🍵 A web app to track your boba orders.
   <br><sub><strong>Progress: 7/10</strong> | <strong>Live demo: [Go](https://boba-store.web.app/home)</strong></sub>
 
   * [FIFA Season Tracker](https://github.com/yiqu/SquadFIFA). <br>⚽ A web app to track your FIFA season progress.
