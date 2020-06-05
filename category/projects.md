@@ -18,6 +18,10 @@ title: Projects
     <br><sub><strong>Progress: 8/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/turnitup/)</strong></sub>
   
 * #### Utilities
+ * [Milestones](https://github.com/yiqu/milestones). <br>📝 An app that analyzes your earnings and benefits from your employment history. 
+  <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/milestones/)</strong></sub>
+  <br>
+
   * [Word Counter](https://github.com/yiqu/countit). <br>📝 An implementation of a word counter web app.
   <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/countit/)</strong></sub>
   <br>
