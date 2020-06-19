@@ -19,7 +19,7 @@ title: Projects
   
 * #### Utilities
   * [Milestones](https://github.com/yiqu/milestones). <br>📝 An app that analyzes your earnings and benefits from your employment history. 
-  <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/milestones/)</strong></sub>
+  <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://milestones-91d92.web.app)</strong></sub>
   <br>
 
   * [Word Counter](https://github.com/yiqu/countit). <br>📝 An implementation of a word counter web app.
