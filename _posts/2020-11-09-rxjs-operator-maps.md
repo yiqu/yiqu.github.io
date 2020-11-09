@@ -12,17 +12,17 @@ with RxJs, you probably have used a operator or two.
 In this post, I want to highlight 4 most commonly used transformation operators. Transformation operators are operators that transforms data.
 <!--more-->
 
-#### mergeMap/flatmap
+### mergeMap/flatmap
 
-##### What is it?
+#### What is it?
 
 mergeMap creates an Observable immediately for any source item, all previous Observables are kept alive.
 
-##### When to use it?
+#### When to use it?
 
 For doing things in parallel. For when things should not be cancelled. Writing to a file is a good usage for mergeMap because you do not want to lose any inputs.
 
-##### Example
+#### Example
 
 ```javascript
 // RxJS v6+
@@ -50,17 +50,17 @@ click$
   .subscribe(r => console.log('Saved!', r));
 ```
 
-#### concatMap
+### concatMap
 
-##### What is it?
+#### What is it?
 
 Waits for the previous Observable to complete before creating the next one. 
 
-##### When to use it?
+#### When to use it?
 
 For when you need to do things in sequence while waiting for completion. Writing files to a database to make sure orders are respected.
 
-##### Example
+#### Example
 
 ```javascript
 from([1, 2, 3 ,4]).pipe(
@@ -69,9 +69,9 @@ from([1, 2, 3 ,4]).pipe(
 ```
 
 
-#### switchMap
+### switchMap
 
-##### What is it?
+#### What is it?
 
 For any source item, completes the previous Observable and immediately creates the next one. 
 
@@ -79,11 +79,11 @@ The main difference between switchMap and other flattening operators is the canc
 On each emission the previous inner observable (the result of the function you supplied) is cancelled and the new observable is subscribed. 
 You can remember this by the phrase switch to a new observable.
 
-##### When to use it?
+#### When to use it?
 
 For cancellation effects. Search type-aheads would be a great usage, it will cancell the previous emission and subscribe to the current.
 
-##### Example
+#### Example
 
 ```javascript
 // RxJS v6+
@@ -98,18 +98,18 @@ fromEvent(document, 'click')
   .subscribe(console.log);
 ```
 
-#### exhaustMap
+### exhaustMap
 
-##### What is it?
+#### What is it?
 
 Source items are ignored while the previous Observable is not completed.
 
-##### When to use it?
+#### When to use it?
 
 For when you want to finish the current item before subscribing to the next one. Login button’s click handler, or refresh/update button.
 This is great for a application that must be resistant to incessant clickers!
 
-##### Example
+#### Example
 
 ```javascript
 // RxJS v6+
@@ -129,6 +129,6 @@ const news$ = fromEvent(newsBtn, 'click').pipe(
 );
 ```
 
-#### Conclusion
+### Conclusion
 
 All of these four operators above are useful in its own ways, but they are meant to be used in its own scenarios. For more detailed explainations, checkout [https://www.learnrxjs.io/learn-rxjs/operators/transformation](learn RxJs) .
