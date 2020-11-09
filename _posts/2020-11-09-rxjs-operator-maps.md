@@ -10,7 +10,7 @@ RxJS is mostly useful for its operators, even though the Observable is the found
 with RxJs, you probably have used a operator or two.
 
 In this post, I want to highlight 4 most commonly used transformation operators. Transformation operators are operators that transforms data.
-
+<!--more-->
 
 #### mergeMap/flatmap
 
