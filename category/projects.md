@@ -18,6 +18,10 @@ title: Projects
     <br><sub><strong>Progress: 8/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/turnitup/)</strong></sub>
   
 * #### Utilities
+  * [Issue Manager](https://github.com/yiqu/ngrx-login). <br>🧵 An app to showcase NgRx and Firebase Firestore in Angular. 
+  <br><sub><strong>Progress: 7/10</strong> | <strong>Live demo: [Go](https://ngrx-qu.web.app/)</strong></sub>
+  <br>
+  
   * [Milestones](https://github.com/yiqu/milestones). <br>📝 An app that analyzes your earnings and benefits from your employment history. 
   <br><sub><strong>Progress: 9/10</strong> | <strong>Live demo: [Go](https://milestones-91d92.web.app)</strong></sub>
   <br>
