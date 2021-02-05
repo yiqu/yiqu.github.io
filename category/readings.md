@@ -18,7 +18,7 @@ title: Readings
 | Tech|[Bootstrap 4 Columns](https://uxplanet.org/how-the-bootstrap-4-grid-works-a1b04703a3b7)|5/30/2018|Carol Skelly|15 min read|
 | Stack Overflow Answer|[How to Scroll Into View with Sticky Header Blocking Top View](https://stackoverflow.com/a/34726752/1751692)|8/11/2020|S.O.|2 min read|
 | Tech - Angular |[Angular Basics Pt. 1](https://medium.com/javascript-in-plain-english/tricky-interview-questions-in-angular-2020-part-3-659c0bc81a9d)|11/25/2020|Atit|10 min read|
-| Tech - NgRx |[Testing NgRx Effects](https://medium.com/swlh/unit-testing-ngrx-effects-7d543ac686c1)|11/25/2020|J. Hicks|10 min read|
+| Tech - NgRx |[Testing NgRx Effects](https://medium.com/swlh/unit-testing-ngrx-effects-7d543ac686c1)|2/5/2021|J. Hicks|10 min read|
 
 
 
