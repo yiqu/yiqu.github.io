@@ -25,7 +25,7 @@ The stages, in order are:
 8. And lastly `ngOnDestroy`
 
 
-## ngOnChanges - The first stage
+## ngOnChanges - The first stage 
 
 This hook will run whenever one or more data-bound input properties change. This means if any bounded properties is changed, this hook will execute. For example, a property with the annotation `@Input()` changes, `ngOnChanges` will be executed. The `ngOnChanges` method receives a `SimpleChanges` object of current and previous property values.
 
