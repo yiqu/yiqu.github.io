@@ -25,20 +25,23 @@ The stages, in order are:
 8. And lastly `ngOnDestroy`
 
 
-## ngOnChanges - The first stage 
+#### ngOnChanges - The first stage 
 
 This hook will run whenever one or more data-bound input properties change. This means if any bounded properties is changed, this hook will execute. For example, a property with the annotation `@Input()` changes, `ngOnChanges` will be executed. The `ngOnChanges` method receives a `SimpleChanges` object of current and previous property values.
 
 Note that if your component has no inputs or you use it without providing any inputs, the framework will not call `ngOnChanges()`.
 
+
 ***Number of calls: many***
 
 ***When to use: hook on input() bounded changes***
 
+\
+&nbsp;
+\
+&nbsp;
 
-
-
-## ngOnInit - The initialization
+#### ngOnInit - The initialization
 
 This hook is made for initialize of of class level properties in a component, or logic to be executed on start. `ngOnInit` initialize the directive or component after Angular first displays the data-bound properties and sets the directive or component's `Input()` properties. 
 
@@ -48,8 +51,12 @@ This hook is called once, after the first `ngOnChanges()`. `ngOnInit()` is still
 
 ***When to use: start up logic, and initial values assignment***
 
+\
+&nbsp;
+\
+&nbsp;
 
-## ngDoCheck - The change detection
+#### ngDoCheck - The change detection
 
 This hook runs whenever Angular change detection runs.
 
@@ -59,8 +66,12 @@ Called immediately after `ngOnChanges()` on every change detection run, and imme
 
 ***When to use: avoid using due to high amount of calls unless necessary***
 
+\
+&nbsp;
+\
+&nbsp;
 
-## ngAfterContentInit - The external display
+#### ngAfterContentInit - The external display
 
 This hook runs when Angular is projecting the external content onto the view. 
 
@@ -70,8 +81,12 @@ Called once after the first `ngDoCheck()`.
 
 ***When to use: hook after < ng-content > is projected***
 
+\
+&nbsp;
+\
+&nbsp;
 
-## ngAfterContentChecked - The external display change detection
+#### ngAfterContentChecked - The external display change detection
 
 This hook runs after Angular checks the content projected into the directive or component.
 
@@ -81,8 +96,12 @@ Called after `ngAfterContentInit()` and every subsequent `ngDoCheck()`.
 
 ***When to use: avoid using due to amount of calls unless necessary***
 
+\
+&nbsp;
+\
+&nbsp;
 
-## ngAfterviewInit - The template display
+#### ngAfterviewInit - The template display
 
 In addition to `ngAfterContentInit()`, this hook initializes the component's views and child views.
 
@@ -92,9 +111,13 @@ Called once after the first `ngAfterContentChecked()`.
 
 ***When to use: logic that requires elements rendered already***
 
+\
+&nbsp;
+\
+&nbsp;
 
 
-## ngAfterviewChecked - The external display change detection
+#### ngAfterviewChecked - The external display change detection
 
 This hook runs after Angular checks the component's views and child views, or the view that contains the directive.
 
@@ -104,9 +127,12 @@ Called after the `ngAfterViewInit()` and every subsequent `ngAfterContentChecked
 
 ***When to use: avoid using due to amount of calls unless necessary***
 
+\
+&nbsp;
+\
+&nbsp;
 
-
-## ngOnDestroy - The external display change detection
+#### ngOnDestroy - The external display change detection
 
 This hook runs just before Angular destroys the directive or component.
 
@@ -116,10 +142,19 @@ Called immediately before Angular destroys the directive or component.
 
 ***When to use: unsubscibe from Obseravble subscriptions, or other cleanup logic***
 
-## Summary
+\
+&nbsp;
+\
+&nbsp;
+
+#### Summary
 
 This is a infographic of the Angular lifecycles that I found to be useful.
+\
+&nbsp;
 
 ![alt text](https://raw.githubusercontent.com/yiqu/yiqu.github.io/master/assets/nglifecycle.png "Logo Title Text 1")
+\
+&nbsp;
 
 Each Angular lifecycle has its own purpose, but it does not mean you will be using all eight in every component. I have found the most useful hooks are `ngOnInit`, `ngOnChanges`, and `ngOnDestroy`. Let me know what you think the most useful hooks and why!
