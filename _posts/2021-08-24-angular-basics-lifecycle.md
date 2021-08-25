@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular Basics: Lifecycle
+title: Angular Basics - Lifecycle
 readTime: 12
 tags:
   - angular
