@@ -16,7 +16,11 @@ title: Projects
 * #### Games
   * [Turn It Up](https://github.com/yiqu/turnitup). <br>🐱 Can you satisfy Meow-zer?
     <br><sub><strong>Progress: 8/10</strong> | <strong>Live demo: [Go](https://yiqu.github.io/turnitup/)</strong></sub>
-  
+
+* #### NPM Libraries
+  * [ngx-keyevent](https://www.npmjs.com/package/ngx-keyevent). <br>⌨️ Angular directive / service that can be used on any HTML element, or injected to listen for user's key  presses. 
+  <br><sub>[![npm](https://img.shields.io/npm/v/ngx-keyevent.svg)](https://www.npmjs.com/package/ngx-keyevent) | <strong>Live demo: [Go](https://yiqu.github.io/ngx-keyevent/)</strong></sub><br>
+ 
 * #### Utilities
   * [Issue Manager](https://github.com/yiqu/ngrx-login). <br>🧵 An app to showcase NgRx and Firebase Firestore in Angular. 
   <br><sub><strong>Progress: 7/10</strong> | <strong>Live demo: [Go](https://ngrx-qu.web.app/)</strong></sub>
