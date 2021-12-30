@@ -20,6 +20,6 @@ title: Readings
 | Tech - Angular |[Angular Basics Pt. 1](https://medium.com/javascript-in-plain-english/tricky-interview-questions-in-angular-2020-part-3-659c0bc81a9d)|11/25/2020|Atit|10 min read|
 | Tech - NgRx |[Testing NgRx Effects](https://medium.com/swlh/unit-testing-ngrx-effects-7d543ac686c1)|2/5/2021|J. Hicks|10 min read|
 | Tech - Angular  |[How does providers in Angular work?](https://www.tektutorialshub.com/angular/angular-providers)|12/23/2021|Tek Blog|15 min read|
-
-
+| Tech - Angular  |[Using DI to Share a FormGroup in Multiple Components](
+https://netbasal.com/create-a-multi-step-form-in-angular-44cdc5b75cdc)|12/30/2021|N. Basal|5 min read|
 
