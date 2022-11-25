@@ -16,7 +16,7 @@ The fetch native API is very powerful and simple to use. The downside is that it
 
 the `fetch()` API only rejects a promise when a “network error is encountered, although this usually means permissions issues or similar.” Basically fetch() will only reject a promise if the user is offline, or some unlikely networking error occurs, such a DNS lookup failure.
 
-### How to handle errors
+### How to handle errors with `fetch()`
 
 The good is news is `fetch` provides a simple `ok` flag that indicates whether an HTTP response’s status code is in the successful range or not.
 
