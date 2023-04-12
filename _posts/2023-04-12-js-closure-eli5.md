@@ -62,4 +62,26 @@ child("Alice") => "My name is Alice, child of Mary"
 ```
 And now, even though the parent is "no longer running" and dead, we can still access the variable values through the function it returned.
 
+Notice logging the child with ```console.log(child)``` will not expose the name "Mary", it's only when you invoke the child function that allows Mary to be revealed. 
+
 <em>The end.</em>
+
+
+### Summary
+
+A closure is a pairing of:
+
+<ul>
+<li>A function and</li>
+<li>A reference to that function's outer scope (lexical environment)</li>
+</ul>
+
+A lexical environment is part of every execution context (stack frame) and is a map between identifiers (i.e. local variable names) and values.
+
+Closures are useful whenever you need a private state associated with a function. This is a very common scenario - and remember: JavaScript did not have a class syntax until 2015, and it still does not have a private field syntax. Closures meet this need.
+
+Every function in JavaScript maintains a reference to its outer lexical environment. This reference is used to configure the execution context created when a function is invoked. This reference enables code inside the function to "see" variables declared outside the function, regardless of when and where the function is called.
+
+If a function was called by a function, which in turn was called by another function, then a chain of references to outer lexical environments is created, and the chain is called the scope chain.
+
+
