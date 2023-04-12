@@ -15,11 +15,10 @@ According to MDN: <em>A closure is the combination of a function bundled togethe
 ### ELI5
 
 Einstein once said "If you can't explain it to a six-year old, you really don't understand it yourself.”
-<br />
-So how does Closures really work in Javascript? Consider the following example:
-<br />
 
-Once there was a parent named Mary:
+So how does Closures really work in Javascript? Consider the following example:
+
+<em>Once there was a parent named Mary:</em>
 ```javascript
 var parent = function() {
  var name = "Mary"; 
@@ -29,7 +28,7 @@ Every time you call it, the local variable "name" is created and given the name 
 
 <br />
 
-Mary had a child:
+<em>Mary had a child:</em>
 ```javascript
 var parent = function() {
   var name = "Mary";
@@ -40,7 +39,9 @@ var parent = function() {
 ```
 The child here is also a private variable of its parent function, it would also die when the parent ends, and the secrets would die with them.
 
-So for the child to not "die" with the parent, it has to leave the parent:
+<br />
+
+<em>So for the child to not "die" with the parent, it has to leave the parent:</em>
 ```javascript
 var parent = function() {
   var name = "Mary";
@@ -51,11 +52,12 @@ var parent = function() {
 }
 var child = parent(); // < - and here it is outside 
 ```
+<br />
 
-And now, even though Mary is "no longer running" (dead), the memory of her is not lost and her child will always remember her name and other secrets they shared during their time together.
+<em>Mary passes from old age. But the memory of her is not lost and her child will always remember her name and other secrets they shared during their time together.</em>
 ```javascript
 child("Alice") => "My name is Alice, child of Mary"
 ```
-
+And now, even though the parent is "no longer running" and dead, we can still access the variable values through the function it returned.
 
 <em>The end.</em>
