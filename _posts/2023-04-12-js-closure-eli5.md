@@ -52,6 +52,8 @@ var parent = function() {
 }
 var child = parent(); // < - and here it is outside 
 ```
+Calling the ```parent``` function will return a function that can be called with a argument.
+
 <br />
 
 <em>Mary passes from old age. But the memory of her is not lost and her child will always remember her name and other secrets they shared during their time together.</em>
